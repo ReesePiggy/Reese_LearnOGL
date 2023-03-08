@@ -5,4 +5,8 @@ add a new line.
 test stage checkout
 test branch
 
-test conflict
+<<<<<<< HEAD
+=======
+test conflict mainline
+test conflict branch1
+>>>>>>> feature1
