@@ -4,3 +4,6 @@ add a new line.
 
 test stage checkout
 test branch
+
+test conflict mainline
+test conflict branch1
