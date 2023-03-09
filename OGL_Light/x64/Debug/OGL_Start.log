@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\Tech\source\repos\OGL_Light\Source1.cpp(200,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Tech\source\repos\OGL_Light\Source1.cpp(383,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OGL_Start.vcxproj -> D:\Tech\source\repos\OGL_Light\x64\Debug\OGL_Start.exe

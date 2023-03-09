@@ -1,0 +1,2 @@
+D:\Tech\source\repos\OGL_Start\x64\Debug\OGL_Start.exe
+D:\Tech\source\repos\OGL_3D\x64\Debug\OGL_Start.exe
